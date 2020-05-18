@@ -1,0 +1,3 @@
+[submodule "cleware-traffic-light"]
+	path = cleware-traffic-light
+	url = https://github.com/ofalk/cleware-traffic-light.git
