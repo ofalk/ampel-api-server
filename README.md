@@ -53,6 +53,6 @@ I'd appreciate if you could share your patches with me.
 # References
 
 [1] https://github.com/flok99/clewarecontrol.git
-[2] https://github.com/ofalk/cleware-traffic-light.git
-    cloned from https://github.com/joshrost/cleware-traffic-light.git
-    with small adaptions.
+
+[2] https://github.com/ofalk/cleware-traffic-light.git 
+(cloned from https://github.com/joshrost/cleware-traffic-light.git with small adaptions.)
